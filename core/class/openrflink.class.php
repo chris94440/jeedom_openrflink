@@ -496,7 +496,7 @@ public static function deamon_info() {
     $return['launchable'] = 'ok';
     if (config::byKey('nodeGateway', 'openrflink') == 'none' || config::byKey('nodeGateway','openrflink') == '') {
         $return['launchable'] = 'nok';
-        $return['launchable_message'] = __('Le port n\'est pas configuré', __FILE__);
+        $return['launchable_message'] = __('Le port USB n\'est pas configuré', __FILE__);
     }
     if (config::byKey('flashing', 'openrflink') == '1') {
         $return['launchable'] = 'nok';
