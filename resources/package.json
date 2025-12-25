@@ -1,0 +1,32 @@
+{
+  "name": "jeedom-openrflink",
+  "version": "4.0.0",
+  "description": "Plugin RFlink pour Jeedom - Compatible Node.js 22",
+  "main": "openrflink.js",
+  "scripts": {
+    "start": "node openrflink.js",
+    "test": "node --version"
+  },
+  "keywords": [
+    "jeedom",
+    "openrflink",
+    "domotique",
+    "433mhz",
+    "home-automation"
+  ],
+  "author": "Conversion pour Node.js 22",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "serialport": "^12.0.0",
+    "@serialport/parser-readline": "^12.0.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "repo git chd openrflink"
+  }
+}

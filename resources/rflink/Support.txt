@@ -1,0 +1,24 @@
+RFLink Support:
+---------------
+
+- Generic RFLink Information:
+RFLink:			        http://www.rflink.nl
+Supported devices:	    http://www.rflink.nl/blog2/2015/07/devlist
+Unsupported devices:	http://www.rflink.nl/blog2/development
+
+
+- Download of latest firmware and rflink loader:
+                        http://www.rflink.nl
+
+                        
+- All development related questions and remarks:
+Email:			frankzirrone@gmail.com
+Forum: 			http://www.letscontrolit.com/forum/viewforum.php?f=8
+
+
+- Dedicated support forums:
+Domoticz: 		http://www.domoticz.com/forum/viewforum.php?f=49
+Jeedom:			https://www.jeedom.com/forum/viewtopic.php?f=28&t=12567
+Pimatic:		https://forum.pimatic.org/topic/1327/new-plugin-for-rflink-gateway/13
+Domotiga:		https://domotiga.nl/projects/domotiga/boards
+
