@@ -1,7 +1,7 @@
 {
   "name": "jeedom-openrflink",
   "version": "4.0.0",
-  "description": "Plugin RFlink pour Jeedom - Compatible Node.js 22",
+  "description": "Plugin OpenRFlink pour Jeedom - Compatible Node.js 22",
   "main": "openrflink.js",
   "scripts": {
     "start": "node openrflink.js",
@@ -27,6 +27,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "repo git chd openrflink"
+    "url": "https://github.com/chris94440/jeedom_openrflink"
   }
 }
