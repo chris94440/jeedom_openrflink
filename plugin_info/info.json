@@ -1,7 +1,7 @@
 {
 	"id" : "openrflink",
 	"name" : "OpenRFLink",
-	"description" : "RFLink est une passerelle pour connecter les périphériques RF433 mais aussi 2.4Ghz (Milight, mySensors, BLE) ou encore Philips Color ou lampes Ikea. Attention : la version de novembre est une grosse réécriture qui pourrait modifier les commandes infos existantes et nécessiter un changement des commandes actions",
+	"description" : "ToDo RFLink est une passerelle pour connecter les périphériques RF433",
 	"licence" : "AGPL",
 	"author" : "Christophe Demongeot",
 	"require" : "4.5",
@@ -10,6 +10,6 @@
   "hasOwnDeamon" : 1,
 	"language" : ["fr_FR","en_US"],
 	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile","v4"],
-	"changelog" : "https://lunarok.github.io/jeedom_docs/plugins/openrflink/changelog.html",
-	"documentation" : "https://lunarok.github.io/jeedom_docs/plugins/openrflink/"
+	"changelog" : "ToDO",
+	"documentation" : "ToDo"
 }
